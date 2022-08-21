@@ -16,7 +16,7 @@ const UserForm = (props) => {
     setLastname("");
     setEmail("");
     setPassword("");
-    confirmPassword("");
+    setConfirmpassword("");
   };
 
   return (
